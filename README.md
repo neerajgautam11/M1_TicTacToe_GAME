@@ -1,18 +1,4 @@
 # M1_TicTacToe_GAME
-<a href="https://frontend.code-inspector.com/public/user/github/chinnam-sowmya">
-   <img src="https://code-inspector.com/public/badge/user/github/chinnam-sowmya?style=light" alt="code inspector badge" />
-   <img  src="https://www.code-inspector.com/project/27776/score/svg" />
-   <img src="https://www.code-inspector.com/project/27776/status/svg" />
-
-</a>
-
-
-
-
-
-
-
-
 
 
 
