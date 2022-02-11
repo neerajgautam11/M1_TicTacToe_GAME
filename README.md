@@ -2,6 +2,7 @@
 ![Codiga](https://app.codiga.io/public/project/31022/M1_TicTacToe_GAME/dashboard)
 ![Codacy Badge](https://api.codiga.io/project/31022/score/svg)
 ![Codacy Badge](https://api.codiga.io/project/31022/status/svg)
+![CI](https://github.com/neerajgautam11/M1_TicTacToe_GAME/blob/main/.github/workflows/main.yml/badge.svg)
 
 
 
