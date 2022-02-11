@@ -1,6 +1,7 @@
 # M1_TicTacToe_GAME
 
-
+![Codacy Badge](https://api.codiga.io/project/31022/score/svg)
+![Codacy Badge](https://api.codiga.io/project/31022/status/svg)
 
 
 
