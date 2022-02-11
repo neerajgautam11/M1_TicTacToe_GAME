@@ -17,14 +17,7 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
    
-   
-
-## Challenges Faced and How Was It Overcome
-
-1. ABC
-2. BCD
-3. ...
-
+  
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
