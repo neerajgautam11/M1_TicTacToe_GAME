@@ -10,13 +10,16 @@
 
 
 ## Folder Structure
-Folder             | Description
--------------------| -----------------------------------------
-`1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
-`3_Implementation` | All code and documentation
-`4_Test_plan`      | Documents with test plans and procedures
-   
+Folder                     | Description
+-------------------------- | ---------------------------------------------
+`0_Certificates`           | Sololearn, Linux, HackerEarth, Github Learning
+`1_Requirements`           | Documents detailing requirements and research
+`2_Architecture`           | Documents specifying design details
+`3_Implementation`         | All code and documentation
+`4_TestPlanAndOutput`      | Documents with test plans and procedures
+`5_Report`                 | Report of all readme
+`6_ImagesandVideos`        | All Images used in the project
+`7_Other`                  | Miscellaneous items
   
 
 ## Learning Resources/References
