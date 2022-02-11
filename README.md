@@ -1,5 +1,10 @@
 # M1_TicTacToe_GAME
+Codacy 
+-------------------------------------------------------------
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0b9a2f36a2914ef390857e3eae25a91b)](https://www.codacy.com/gh/neerajgautam11/M1_TicTacToe_GAME/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=neerajgautam11/M1_TicTacToe_GAME&amp;utm_campaign=Badge_Grade)
+
+Codiga
+-------------------------------------------------------------
 ![Codiga Badge](https://api.codiga.io/project/31022/score/svg)
 ![Codiga Badge](https://api.codiga.io/project/31022/status/svg)
 
