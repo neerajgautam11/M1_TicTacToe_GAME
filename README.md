@@ -8,6 +8,7 @@ Codiga
 ![Codiga Badge](https://api.codiga.io/project/31022/score/svg)
 ![Codiga Badge](https://api.codiga.io/project/31022/status/svg)
 
+[![cppcheck-action](https://github.com/neerajgautam11/M1_TicTacToe_GAME/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/neerajgautam11/M1_TicTacToe_GAME/actions/workflows/cppcheck.yml)
 
 
 # SDLC Activity Based Learning
