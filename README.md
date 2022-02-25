@@ -10,6 +10,8 @@ Codiga
 
 [![cppcheck-action](https://github.com/neerajgautam11/M1_TicTacToe_GAME/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/neerajgautam11/M1_TicTacToe_GAME/actions/workflows/cppcheck.yml)
 
+[![CI](https://github.com/neerajgautam11/M1_TicTacToe_GAME/actions/workflows/main.yml/badge.svg)](https://github.com/neerajgautam11/M1_TicTacToe_GAME/actions/workflows/main.yml)
+
 
 # SDLC Activity Based Learning
 ![tic-tac-toe](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/783px-Tic_tac_toe.svg.png)
