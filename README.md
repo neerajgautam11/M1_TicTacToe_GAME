@@ -8,8 +8,12 @@ Codiga
 ![Codiga Badge](https://api.codiga.io/project/31022/score/svg)
 ![Codiga Badge](https://api.codiga.io/project/31022/status/svg)
 
+CPP Check
+----------
 [![cppcheck-action](https://github.com/neerajgautam11/M1_TicTacToe_GAME/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/neerajgautam11/M1_TicTacToe_GAME/actions/workflows/cppcheck.yml)
 
+CI
+---------------
 [![CI](https://github.com/neerajgautam11/M1_TicTacToe_GAME/actions/workflows/main.yml/badge.svg)](https://github.com/neerajgautam11/M1_TicTacToe_GAME/actions/workflows/main.yml)
 
 
